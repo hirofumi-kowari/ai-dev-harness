@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/9bb083ae-460b-4a0d-8fe4-b921c8506c11
-
 # ハーネスによるAI駆動開発
 
 [English](README.md)
@@ -14,17 +10,13 @@ https://github.com/user-attachments/assets/9bb083ae-460b-4a0d-8fe4-b921c8506c11
 
 2本の動画で使う言葉（仕様、ガードレール、自動チェック、品質ゲート、ハーネス）の説明と、「ルールを書いておく」ことと「ルールが守られる」ことが同じではない理由。
 
-<!-- 再生プレイヤーの置き場所：GitHub の Web エディタで harness-explained.ja.mp4 をこの行の下にドラッグすると、user-attachments の URL が入り、ページ内で再生できるようになる -->
-
-[ハーネス説明動画をダウンロード（mp4）](harness-explained.ja.mp4)
+https://github.com/user-attachments/assets/9bb083ae-460b-4a0d-8fe4-b921c8506c11
 
 ## 2. AI駆動開発ループ デモ動画（11分）
 
 改修依頼1件を最初から最後まで追います。AIが仕様とガードレールを読み、設計案を出し、決められないことを課題として起票し、設計書を更新し、実装・ビルド・テスト生成・自動テスト・画面テストを行い、別のAIのレビューを受け、品質ゲートを通り、証拠を人に渡して受け入れを仰ぎます。最後の場面では、今回の経験が組織標準になって次の改修で使われる様子を示します。
 
-<!-- 再生プレイヤーの置き場所：GitHub の Web エディタで dev-loop-demo.ja.mp4 をこの行の下にドラッグする -->
-
-[AI駆動開発ループ デモ動画をダウンロード（mp4）](dev-loop-demo.ja.mp4)
+https://github.com/user-attachments/assets/dc336e39-99c1-4f00-b40d-b56ba8f8bc41
 
 ## 用語
 
