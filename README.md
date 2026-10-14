@@ -27,7 +27,7 @@ https://github.com/user-attachments/assets/b6d2c4cd-5fa3-4cf1-b557-605088f48ff3
 
 ## Related
 
-[SpecLingua](https://github.com/hirofumi-kowari/spec-lingua) covers how to prepare specifications for AI, including what people need to decide and what AI needs to verify.
+[SpecLingua](https://github.com/hirofumi-kowari/spec-lingua) is a proposed specification language, with supporting tools, that lets people and AI share specifications, changes, and their evidence while building on existing design documents.
 
 ## License
 

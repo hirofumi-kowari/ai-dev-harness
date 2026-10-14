@@ -24,7 +24,7 @@ https://github.com/user-attachments/assets/7a011f33-0f40-4cdb-b166-b3a4cc7a611d
 
 ## 関連
 
-AIに渡す仕様の整え方や、人が決めること・AIが確認すべきことの整理は、[SpecLingua](https://github.com/hirofumi-kowari/spec-lingua)で扱っています。
+[SpecLingua](https://github.com/hirofumi-kowari/spec-lingua) は、既存の設計書を活かしながら、人とAIが仕様・変更内容・根拠を共有するための仕様記述言語と、その支援ツールの構想です。
 
 ## ライセンス
 
