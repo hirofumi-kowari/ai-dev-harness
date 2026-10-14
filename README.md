@@ -10,7 +10,7 @@ The videos use a fictional employee reservation system, with screens and code cr
 
 ## 1. Start here: Development demo (about 7 min)
 
-Follow a change that limits reservations to five per week and shows how many remain, from design updates through implementation and testing. AI asks people to resolve unclear requirements, investigates test failures, fixes the cause, and runs the tests again. People review the changes, test results, and remaining issues before approving. The demo ends by using lessons from the change to improve procedures for future work.
+See a development workflow in which AI carries out design, implementation, and testing on its own, and when problems arise, investigates the cause, fixes it, and verifies the result again. The demo shows which work is left to AI and where people make decisions, review the changes and test results, and approve them. It also shows how lessons from development are used to improve procedures.
 
 <!-- Player goes here: in GitHub's web editor, drag dev-loop-demo.en.mp4 below this line -->
 https://github.com/user-attachments/assets/131ac77a-3f68-43f8-b301-cc1df555d0ac
