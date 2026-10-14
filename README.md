@@ -15,6 +15,9 @@ See a development workflow in which AI carries out design, implementation, and t
 <!-- Player goes here: in GitHub's web editor, drag dev-loop-demo.en.mp4 below this line -->
 https://github.com/user-attachments/assets/131ac77a-3f68-43f8-b301-cc1df555d0ac
 
+Note: If playback stops partway through, reload the page and play the video again.
+
+[Play in a new tab (mp4)](https://cdn.jsdelivr.net/gh/hirofumi-kowari/ai-dev-harness@main/dev-loop-demo.en.mp4)
 
 ## 2. How it works: Harness technical guide (about 7 min)
 
@@ -23,7 +26,9 @@ Learn how to build the harness behind the demo: organize reference material, pre
 <!-- Player goes here: in GitHub's web editor, drag harness-explained.en.mp4 below this line -->
 https://github.com/user-attachments/assets/b6d2c4cd-5fa3-4cf1-b557-605088f48ff3
 
+Note: If playback stops partway through, reload the page and play the video again.
 
+[Play in a new tab (mp4)](https://cdn.jsdelivr.net/gh/hirofumi-kowari/ai-dev-harness@main/harness-explained.en.mp4)
 
 ## Related
 

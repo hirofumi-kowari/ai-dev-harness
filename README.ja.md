@@ -15,12 +15,20 @@
 <!-- 再生プレイヤーの置き場所：GitHub の Web エディタで dev-loop-demo.ja.mp4 をこの行の下にドラッグする -->
 https://github.com/user-attachments/assets/0a9bbe78-ebd1-47fc-a726-1696d15a2f21
 
+※ 再生が途中で止まる場合は、ページを再読み込みしてから再生してください。
+
+[別のタブで再生する（mp4）](https://cdn.jsdelivr.net/gh/hirofumi-kowari/ai-dev-harness@main/dev-loop-demo.ja.mp4)
+
 ## 2. 仕組みを知る：ハーネス技術編（約8分）
 
 デモを支えるハーネスの作り方を説明します。参照資料の整理、基本指示や作業手順（Skills）の用意、ツールの実行、レビューや自動チェックの組み込み方を紹介します。工程ごとのチェックリストや報告前の確認（品質ゲート）を通じて、AIが次へ進む条件と、人に確認する条件をどう整えるかを扱います。
 
 <!-- 再生プレイヤーの置き場所：GitHub の Web エディタで harness-explained.ja.mp4 をこの行の下にドラッグする -->
 https://github.com/user-attachments/assets/7a011f33-0f40-4cdb-b166-b3a4cc7a611d
+
+※ 再生が途中で止まる場合は、ページを再読み込みしてから再生してください。
+
+[別のタブで再生する（mp4）](https://cdn.jsdelivr.net/gh/hirofumi-kowari/ai-dev-harness@main/harness-explained.ja.mp4)
 
 ## 関連
 
