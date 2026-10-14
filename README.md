@@ -13,16 +13,17 @@ The videos use a fictional employee reservation system, with screens and code cr
 Follow a change that limits reservations to five per week and shows how many remain, from design updates through implementation and testing. AI asks people to resolve unclear requirements, investigates test failures, fixes the cause, and runs the tests again. People review the changes, test results, and remaining issues before approving. The demo ends by using lessons from the change to improve procedures for future work.
 
 <!-- Player goes here: in GitHub's web editor, drag dev-loop-demo.en.mp4 below this line -->
+https://github.com/user-attachments/assets/131ac77a-3f68-43f8-b301-cc1df555d0ac
 
-[Download: Development demo (mp4)](dev-loop-demo.en.mp4)
 
 ## 2. How it works: Harness technical guide (about 7 min)
 
 Learn how to build the harness behind the demo: organize reference material, prepare project instructions and reusable procedures (Skills), run tools, and add reviews and automated checks. The guide explains how stage checklists and checks before reporting (the quality gate) help define when AI can move forward and when it needs to ask a person.
 
 <!-- Player goes here: in GitHub's web editor, drag harness-explained.en.mp4 below this line -->
+https://github.com/user-attachments/assets/b6d2c4cd-5fa3-4cf1-b557-605088f48ff3
 
-[Download: Harness technical guide (mp4)](harness-explained.en.mp4)
+
 
 ## Related
 
