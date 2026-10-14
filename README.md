@@ -2,43 +2,31 @@
 
 [日本語](README.ja.md)
 
-Two short videos that explain one way of putting AI to work on an existing business system: **people set the rules, AI does the work, machines check the result, and people accept it.** The subject system is a fictional employee reservation application. No customer names, products or real code appear.
+**AI works through design, implementation, and testing, while people make the decisions that need human judgment and approve the changes.** Two videos introduce this workflow and the setup that supports it: a *harness*.
 
-Narration is in Japanese (synthetic voice). English subtitles are planned.
+A harness brings together reference material, work procedures, tools, and checks so AI can keep working, verifying results, and making corrections.
 
-**Start with the [development demo](dev-loop-demo.ja.mp4).** It shows AI moving through design, implementation, testing, and fixes, while people resolve open questions and approve the result. To learn how to build the supporting setup, continue to the [harness technical guide](harness-explained.ja.mp4).
+The videos use a fictional employee reservation system, with screens and code created for illustration. Narration is in English (synthetic voice). Japanese versions are linked from the [Japanese README](README.ja.md).
 
-## 1. Start here: Development demo (11 min)
+## 1. Start here: Development demo (about 7 min)
 
-One modification request, end to end: the AI reads the specification and guardrails, proposes a design, raises the questions it cannot decide, updates the design document, implements, builds, generates and runs tests, drives the browser for screen tests, gets reviewed by a second AI, passes the quality gate, and hands the evidence to a person for acceptance. The last scenes show how the lesson from this change becomes an organisational standard for the next one.
+Follow a change that limits reservations to five per week and shows how many remain, from design updates through implementation and testing. AI asks people to resolve unclear requirements, investigates test failures, fixes the cause, and runs the tests again. People review the changes, test results, and remaining issues before approving. The demo ends by using lessons from the change to improve procedures for future work.
 
-<!-- Player goes here: in GitHub's web editor, drag dev-loop-demo.ja.mp4 below this line -->
+<!-- Player goes here: in GitHub's web editor, drag dev-loop-demo.en.mp4 below this line -->
 
-[Download: Development loop demo (mp4, Japanese narration)](dev-loop-demo.ja.mp4)
+[Download: Development demo (mp4)](dev-loop-demo.en.mp4)
 
-To build the setup that supports this workflow, continue to the harness technical guide below.
+## 2. How it works: Harness technical guide (about 7 min)
 
-## 2. How to build it: Harness technical guide (6 min)
+Learn how to build the harness behind the demo: organize reference material, prepare project instructions and reusable procedures (Skills), run tools, and add reviews and automated checks. The guide explains how stage checklists and checks before reporting (the quality gate) help define when AI can move forward and when it needs to ask a person.
 
-For those planning to build a harness, this video explains how specifications, guardrails, automated checks, and quality gates fit together, and how to turn written rules into checks during execution.
+<!-- Player goes here: in GitHub's web editor, drag harness-explained.en.mp4 below this line -->
 
-<!-- Player goes here: in GitHub's web editor, drag harness-explained.ja.mp4 below this line; GitHub inserts a user-attachments URL that plays inline -->
-
-[Download: Harness technical guide (mp4, Japanese narration)](harness-explained.ja.mp4)
-
-## Terms
-
-| Term | Meaning |
-|---|---|
-| Specification | Requirements and design documents. What to build. Decided by people, per project |
-| Guardrails | Conventions, permitted operations, checklists. Shared across projects |
-| Automated checks | Scripts that run before a tool call, after an edit, and at the end |
-| Quality gate | The end-of-work check: not "done" until the agreed completion conditions are met |
-| Harness | The whole arrangement: rules by people, execution by AI, judgement by machines, acceptance by people |
+[Download: Harness technical guide (mp4)](harness-explained.en.mp4)
 
 ## Related
 
-How the specification itself is prepared for such a loop — what a person must decide, what evidence the AI must cite, which questions it must raise instead of guessing — is the subject of **[SpecLingua](https://github.com/hirofumi-kowari/spec-lingua)**.
+[SpecLingua](https://github.com/hirofumi-kowari/spec-lingua) covers how to prepare specifications for AI, including what people need to decide and what AI needs to verify.
 
 ## License
 
