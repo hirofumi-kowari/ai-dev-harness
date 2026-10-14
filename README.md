@@ -6,21 +6,25 @@ Two short videos that explain one way of putting AI to work on an existing busin
 
 Narration is in Japanese (synthetic voice). English subtitles are planned.
 
-## 1. Harness explained (6 min)
+**Start with the [development demo](dev-loop-demo.ja.mp4).** It shows AI moving through design, implementation, testing, and fixes, while people resolve open questions and approve the result. To learn how to build the supporting setup, continue to the [harness technical guide](harness-explained.ja.mp4).
 
-The vocabulary used in both videos — specification, guardrails, automated checks, quality gate, harness — and why writing a rule down is not the same as having it followed.
-
-<!-- Player goes here: in GitHub's web editor, drag harness-explained.ja.mp4 below this line; GitHub inserts a user-attachments URL that plays inline -->
-
-[Download: Harness explained (mp4, Japanese narration)](harness-explained.ja.mp4)
-
-## 2. Development loop demo (11 min)
+## 1. Start here: Development demo (11 min)
 
 One modification request, end to end: the AI reads the specification and guardrails, proposes a design, raises the questions it cannot decide, updates the design document, implements, builds, generates and runs tests, drives the browser for screen tests, gets reviewed by a second AI, passes the quality gate, and hands the evidence to a person for acceptance. The last scenes show how the lesson from this change becomes an organisational standard for the next one.
 
 <!-- Player goes here: in GitHub's web editor, drag dev-loop-demo.ja.mp4 below this line -->
 
 [Download: Development loop demo (mp4, Japanese narration)](dev-loop-demo.ja.mp4)
+
+To build the setup that supports this workflow, continue to the harness technical guide below.
+
+## 2. How to build it: Harness technical guide (6 min)
+
+For those planning to build a harness, this video explains how specifications, guardrails, automated checks, and quality gates fit together, and how to turn written rules into checks during execution.
+
+<!-- Player goes here: in GitHub's web editor, drag harness-explained.ja.mp4 below this line; GitHub inserts a user-attachments URL that plays inline -->
+
+[Download: Harness technical guide (mp4, Japanese narration)](harness-explained.ja.mp4)
 
 ## Terms
 
